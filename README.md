@@ -25,3 +25,18 @@ Micro-Framework Backends:
 - Fiber
 
 Designs can be viewed [here](https://www.figma.com/file/kBdJv5ZJZl4NsupcfAlDNN/Untitled?node-id=0%3A1&t=uGrTsBNCu0nHBJqk-1);
+
+## Specs
+
+- Users:
+    - can create projects
+    - can be invited to existing projects
+    - can be removed from projects
+- Projects:
+    - can have many users
+    - can have many tasks
+    - can be completed
+- Tasks:
+    - belong to a project
+    - can be assigned to a user
+    - can be completed
