@@ -1,4 +1,4 @@
-# Project Management APP
+# Project Management App
 
 This is a project management app
 implemented in a variety of languages
